@@ -1,4 +1,4 @@
-iCarousel
+RGIndexView
 
 Created by Roman Gille on 04.12.12.
 
