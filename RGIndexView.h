@@ -1,6 +1,5 @@
 //
 //  RGIndexView.h
-//  BMW Wireless
 //
 //  Created by Roman Gille on 04.12.12.
 //  Copyright (c) 2012 Roman Gille. All rights reserved.
